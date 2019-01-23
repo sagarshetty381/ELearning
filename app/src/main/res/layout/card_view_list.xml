@@ -1,0 +1,34 @@
+<android.support.v7.widget.CardView
+    xmlns:card_view="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/card_view"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    card_view:cardUseCompatPadding="true"
+    card_view:cardCornerRadius="15dp">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <ImageView
+            android:id="@+id/country_photo"
+            android:layout_width="match_parent"
+            android:layout_height="300px"
+            android:contentDescription="@string/action_settings"
+            android:src="@drawable/seven"
+            android:scaleType="centerCrop" />
+
+        <TextView
+            android:id="@+id/country_name"
+            android:layout_width="match_parent"
+            android:layout_height="90px"
+            android:textSize="13sp"
+            android:text="@string/country_name"
+            android:gravity="center"
+            android:layout_below="@+id/country_photo"
+            android:background= "#8800ffdd"/>
+
+    </RelativeLayout>
+
+</android.support.v7.widget.CardView>

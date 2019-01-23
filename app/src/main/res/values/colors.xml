@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="cardview_background">#add8e6</color>
+    <color name="headingtextcolor">#1c7a99</color>
+    <color name="backgroundcolor">#fcfcfc</color>
+    <color name="lightgray">#ededed</color>
+    <color name="deeppurple">#7c4dff</color>
+    <color name="yello">#ffb300</color>
+    <color name="green">#00bfa5</color>
+    <color name="colorAccent">#ffc640</color>
+    <color name="darkblue">#23283a</color>
+    <color name="testcolorblue">#152b38</color>
+    <color name="pink">#fe104d</color>
+
+    <color name="nocolor">#00bcff40</color>
+
+    <color name="chatboticon">#f5f3ef</color>
+
+    <color name="special_black_color">#282828</color>
+    <!--Use this with the normal text color blue combination-->
+
+    <color name="drawabletint">#07c4ea</color>
+    <color name="normaltextcolor">#1b91a9</color>
+    <color name="desccolor">#22b5d2</color>
+    <color name="titletextcolor">#1e9db7</color>
+    <color name="white">#fff</color>
+    <color name="headingshadowcolor">#2092a1</color>
+
+    <color name="black_overlay">#66000000</color>
+</resources>

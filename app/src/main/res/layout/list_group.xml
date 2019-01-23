@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="8dp"
+    android:background="#ffffff">
+
+    <TextView
+        android:id="@+id/lblListHeader"
+        android:layout_width="wrap_content"
+        android:layout_height="40dp"
+        android:paddingLeft="30dp"
+        android:gravity="center"
+        android:shadowRadius="1"
+        android:textColor="@color/titletextcolor"
+        android:textSize="17dp"
+        android:text="Dude"
+        android:textStyle="bold"/>
+
+</RelativeLayout>
